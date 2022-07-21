@@ -1,0 +1,5 @@
+* rule to define element / tag HTML
+* made separate from HTML
+* aims to separate contents and style
+* 1 .css can be used for multiple HTML
+* 1 HTML can use multiple .css

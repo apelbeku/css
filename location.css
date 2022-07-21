@@ -1,0 +1,21 @@
+# anatomy
+* embed
+* inline
+* external
+
+# EMBED
+
+ <style>
+	h1 {
+	       color: lightblue;
+	       font-family: arial;
+       }	       
+ <?style>
+
+# INLINE
+
+ <h1 style="text-align: center; font-family: 60px;">Hello World!</h1>
+
+
+# EXTERNAL
+ <link rel="stylsheet" href="style.css">
